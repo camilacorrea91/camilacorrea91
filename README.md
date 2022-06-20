@@ -3,7 +3,6 @@
 <div>
   <br>
   <p> :woman_student: Atualmente cursando Sistemas da Informação</p>
-  <p>:books: Estou estudando por conta própria JavaScript e TypeScript</p>
 </div>
 
 <div style="display: inline_block"><br>
