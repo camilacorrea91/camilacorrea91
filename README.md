@@ -2,7 +2,7 @@
 <img align="right" alt="Cami-gif" height="150" style="border-radius:100px;" src="https://i.picasion.com/pic92/926660bf49e1143ae27648d1809b6c7c.gif">
 <div>
   <br>
-  <p> :woman_student: Formada em Sistemas da Informação e atualmente cursando Administração</p>
+  <p> :woman_student: Formada em Sistemas da Informação.</p>
 </div>
 
 <div style="display: inline_block"><br>
